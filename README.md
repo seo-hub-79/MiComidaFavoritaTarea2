@@ -41,3 +41,6 @@ git clone https://github.com/latioskev/MiComidaFavorita.git
 
 
 ![](https://github.com/seo-hub-79/MiComidaFavoritaTarea2/blob/main/photo_2025-01-19_23-36-22.jpg)
+![](https://github.com/seo-hub-79/MiComidaFavoritaTarea2/blob/main/photo_2025-01-19_23-36-23.jpg)
+![](https://github.com/seo-hub-79/MiComidaFavoritaTarea2/blob/main/photo_2025-01-19_23-36-24%20(2).jpg)
+![](https://github.com/seo-hub-79/MiComidaFavoritaTarea2/blob/main/photo_2025-01-19_23-36-24.jpg)
