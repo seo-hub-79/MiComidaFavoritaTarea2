@@ -8,11 +8,8 @@ las siguientes herramientas instaladas:
     Un emulador de Android/iOS o un dispositivo físico
     Cuenta activa en Firebase Console
 Instalación y configuración
-1. Clonar el repositorio
 
-git clone https://github.com/latioskev/MiComidaFavorita.git
-
-2. Instalar dependencias
+1. Instalar dependencias
 
 -  npm install
 
@@ -26,7 +23,7 @@ git clone https://github.com/latioskev/MiComidaFavorita.git
 
 -  npm install react-native-safe-area-contex
 
-3. Configurar Firebase
+2. Configurar Firebase
 
     Ir a Firebase Console ( https://console.firebase.google.com/)
     Crear nuevo proyecto "MiComidaFavorita"
@@ -35,7 +32,7 @@ git clone https://github.com/latioskev/MiComidaFavorita.git
     Registrar la aplicación web
     Copiar configuración de Firebase
 
-4. Iniciar el proyecto
+3. Iniciar el proyecto
 
 - npx expo start
 
@@ -45,6 +42,5 @@ git clone https://github.com/latioskev/MiComidaFavorita.git
 ![](https://github.com/seo-hub-79/MiComidaFavoritaTarea2/blob/main/photo_2025-01-19_23-36-24%20(2).jpg)
 ![](https://github.com/seo-hub-79/MiComidaFavoritaTarea2/blob/main/photo_2025-01-19_23-36-24.jpg)
 
-
-5. link video demostracion
-https://drive.google.com/file/d/1k-o5kjnWUT9xwDxvxnUm9lrgbioqI5eq/view?usp=sharing 
+4. link video demostracion
+- https://drive.google.com/file/d/1k-o5kjnWUT9xwDxvxnUm9lrgbioqI5eq/view?usp=sharing 
