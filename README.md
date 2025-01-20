@@ -40,4 +40,4 @@ git clone https://github.com/latioskev/MiComidaFavorita.git
 - npx expo start
 
 
-![]https://github.com/seo-hub-79/MiComidaFavoritaTarea2/blob/main/photo_2025-01-19_23-36-22.jpg
+![](https://github.com/seo-hub-79/MiComidaFavoritaTarea2/blob/main/photo_2025-01-19_23-36-22.jpg)
