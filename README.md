@@ -1,4 +1,4 @@
-# My Library review
+# MiComidaFavoritaTarea2
 # Requisitos:
 las siguientes herramientas instaladas:
 
@@ -23,7 +23,15 @@ Instalación y configuración
 
 -  npm install react-native-safe-area-contex
 
+2. Configurar Firebase
 
-2. Iniciar el proyecto
+    Ir a Firebase Console ( https://console.firebase.google.com/)
+    Crear nuevo proyecto "MiComidaFavorita"
+    Habilitar Authentication (Email/Password)
+    Crear Cloud Firestore
+    Registrar la aplicación web
+    Copiar configuración de Firebase
+
+3. Iniciar el proyecto
 
 - npx expo start
