@@ -35,3 +35,11 @@ Instalación y configuración
 3. Iniciar el proyecto
 
 - npx expo start
+
+![](photo_2025-01-19_23-36-22.jpg)
+![](photo_2025-01-19_23-36-23.jpg)
+![](photo_2025-01-19_23-36-24.jpg)
+![](photo_2025-01-19_23-36-25.jpg)
+
+4. link video demostracion
+- https://drive.google.com/file/d/1k-o5kjnWUT9xwDxvxnUm9lrgbioqI5eq/view?usp=drive_link 
